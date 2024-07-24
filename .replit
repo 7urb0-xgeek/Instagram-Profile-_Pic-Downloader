@@ -1,8 +1,8 @@
 modules = ["python-3.12"]
-run = "python3 insta py"
+run = "python insta py"
 
 [nix]
 channel = "stable-24_05"
 
 [deployment]
-run = ["sh", "-c", "python3 insta py"]
+run = ["sh", "-c", "python insta py"]
