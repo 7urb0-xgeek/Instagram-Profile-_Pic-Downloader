@@ -1,1 +1,2 @@
+pyhon3.12
 instaloader
